@@ -1,0 +1,78 @@
+REACT / REDUX :
+sudo
+
+yarn add
+npm i react
+npm view react version
+
+npx create-react-app my-app
+cd my-app
+code .
+npm start
+
+npm i redux
+npm i react-redux
+npm install @reduxjs/toolkit
+yarn add react-flip-move
+
+yarn add --save firebase
+npm install -g firebase-tools
+
+npx create-react-app my-app --template redux
+
+npm audit fix --force
+npm cache clean -f
+
+more file.txt
+type README.md
+rmdir /s /q NotEmptyDir
+
+npm install
+npm outdated
+npm update
+
+npm install -g react-devtools
+npx react-devtools
+<script src="http://localhost:8097"></script>
+<script src="http://192.168.56.1:8097"></script>
+
+yarn add @mui/material @mui/icons-material
+npm install @emotion/react @emotion/styled @mui/styled-engine-sc styled-components
+
+node --trace-deprecation
+
+firebase login
+firebase init
+npm run build
+firebase deploy
+
+
+
+VITE:
+
+npm create vite@latest
+yarn create vite
+
+npm create vite@latest my-vue-app -- --template react
+yarn create vite my-vue-app --template react
+
+npx degit user/project my-project
+cd my-project
+
+npm install
+npm run dev
+
+git init
+git rm --cached -f Project
+echo "#Project" >> README.md
+git add README.md
+git add . 
+git commit -m "commit"
+git remote add origin https://github.com/BrightProgrammer7/yourRepository.git
+git remote -v
+git pull origin main
+git push -u origin main
+git push --force origin main
+
+
+
